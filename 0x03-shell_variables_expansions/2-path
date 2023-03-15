@@ -1,3 +1,4 @@
 #!/bin/bash
-PATH=$path:/action
+PATH =&PATH/action
+
 
